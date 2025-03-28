@@ -19,6 +19,7 @@ Tenho 26 anos, moro no interior de SP e sou iniciante no universo da programaç�
    <h6>coffe lover 💜</h6>
    <h6>pet lover 🐶</h6>
    <h6>cursando desenvolvimento de software multiplataforma na Fatec 📘</h6>
+   <h6>paixão por front-end 💜</h6>
    <h6>no Github, quero mostrar um pouco da minha tragetória na programação 🚀 </h6>
 
 
