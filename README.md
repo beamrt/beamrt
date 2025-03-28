@@ -13,7 +13,7 @@ Tenho 26 anos, moro no interior de SP e sou iniciante no universo da programaç�
     <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />     
   </div>
   <h5>Você também pode me encontrar no</h5>
-  <a  target="_blank" href="https://www.linkedin.com/in/beatriz-martins-10343713b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/beatriz-martins-10343713b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <section>
    <h6>coffe lover 💜</h6>
