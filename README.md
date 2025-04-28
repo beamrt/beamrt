@@ -16,10 +16,9 @@ Tenho 26 anos, moro no interior de SP e sou iniciante no universo da programaç�
   <a href="https://www.linkedin.com/in/beatriz-martins-10343713b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <section>
-   <h6>coffe lover 💜</h6>
-   <h6>pet lover 🐶</h6>
    <h6>cursando desenvolvimento de software multiplataforma na Fatec 📘</h6>
    <h6>paixão por front-end 💜</h6>
+   <h6>pet lover 🐶</h6>
    <h6>no Github, quero mostrar um pouco da minha tragetória na programação 🚀 </h6>
 </section>
          
