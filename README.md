@@ -1,6 +1,6 @@
 ## Hello World! Welcome to my Github profile ✨ 
 
-Tenho 26 anos, moro no interior de SP e sou iniciante no universo da programação.
+Tenho 26 anos, e sou iniciante no universo da programação.
 
 <h5> Tecnologias e Ferramentas :computer: </h5>
 
