@@ -21,5 +21,6 @@ Tenho 26 anos, e sou iniciante no universo da programação.
    <h6>pet lover 🐶</h6>
    <h6>no Github, quero mostrar um pouco da minha tragetória na programação 🚀 </h6>
 </section>
-![Snake animation](https://github.com/beamrt/beamrt/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/beamrt/beamrt/blob/output/github-contribution-grid-snake.svg)
           
