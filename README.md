@@ -23,5 +23,4 @@ Tenho 26 anos, e sou iniciante no universo da programação.
 </section>
 
 ![snake animation](https://github.com/<beamrt>/<beamrt>/blob/output/github-contribution-grid-snake2.svg)
-
           
