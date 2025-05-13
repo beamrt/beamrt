@@ -22,9 +22,11 @@
 
 
 <h3 align='center'>Um pouco sobre mim✨ </h3>
-<section align='center'>
-   <h6>cursando Desenvolvimento de Software Multiplataforma na Fatec 📘</h6>
-   <h6>paixão por front-end 💜</h6>
-   <h6>pet lover 🐶</h6>
-   <h6>no Github, quero mostrar um pouco da minha tragetória na programação 🚀 </h6>
-</section>
+<nav align='center'>
+  <ul>
+   <li>cursando Desenvolvimento de Software Multiplataforma na Fatec 📘</li>
+   <li>paixão por front-end 💜</li>
+   <li>pet lover 🐶</li>
+   <li>no Github, quero mostrar um pouco da minha tragetória na programação 🚀 </li>
+  </ul>
+</nav>
