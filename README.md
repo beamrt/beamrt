@@ -21,8 +21,8 @@
   </div>
 
 
-<h3 align='center'>Um pouco sobre mim✨ </h3>
-<nav align='center'>
+<h3>Um pouco sobre mim✨ </h3>
+<nav>
   <ul>
    <li>cursando Desenvolvimento de Software Multiplataforma na Fatec 📘</li>
    <li>paixão por front-end 💜</li>
