@@ -28,5 +28,3 @@
    <h6>pet lover 🐶</h6>
    <h6>no Github, quero mostrar um pouco da minha tragetória na programação 🚀 </h6>
 </section>
-
-![snake gif](https://github.com/beamrt/beamrt/blob/output/github-contribution-grid-snake.svg)
