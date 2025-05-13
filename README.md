@@ -20,12 +20,12 @@
      <a href="https://www.instagram.com/_beamrt/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
   </div>
 
-<h3>Um pouco sobre mim✨ </h3>
-<section>
+![snake gif](https://github.com/beamrt/beamrt/blob/output/github-contribution-grid-snake.svg)
+
+<h3 align='center'>Um pouco sobre mim✨ </h3>
+<section align='center'>
    <h6>cursando Desenvolvimento de Software Multiplataforma na Fatec 📘</h6>
    <h6>paixão por front-end 💜</h6>
    <h6>pet lover 🐶</h6>
    <h6>no Github, quero mostrar um pouco da minha tragetória na programação 🚀 </h6>
 </section>
-
-![snake gif](https://github.com/beamrt/beamrt/blob/output/github-contribution-grid-snake.svg)
