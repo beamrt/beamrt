@@ -27,6 +27,7 @@
    <li>cursando Desenvolvimento de Software Multiplataforma na Fatec 📘</li>
    <li>paixão por front-end 💜</li>
    <li>pet lover 🐶</li>
+   <li>coffe lover ☕</li>
    <li>no Github, quero mostrar um pouco da minha tragetória na programação 🚀 </li>
   </ul>
 </nav>
