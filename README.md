@@ -1,6 +1,6 @@
 <div align='center'>
-## Hello World! Welcome to my Github profile ✨ 
-Sou iniciante no universo da programação.
+<h1>Hello World! Welcome to my Github profile ✨ </h1>
+<p>Sou iniciante no universo da programação.</p>
 </div>
 
 <h5> Tecnologias e Ferramentas :computer: </h5>
