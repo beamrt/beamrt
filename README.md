@@ -20,7 +20,7 @@
      <a href="https://www.instagram.com/_beamrt/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
   </div>
 
-  ![Snake animation](https://github.com/beamrt/beamrt/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/beamrt/beamrt/blob/output/github-contribution-grid-snake.svg"/>
 
 
 <h3>Um pouco sobre mim✨ </h3>
