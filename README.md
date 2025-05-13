@@ -1,6 +1,7 @@
+<div align='center'>
 ## Hello World! Welcome to my Github profile ✨ 
-
-Tenho 26 anos, e sou iniciante no universo da programação.
+Sou iniciante no universo da programação.
+</div>
 
 <h5> Tecnologias e Ferramentas :computer: </h5>
 
