@@ -1,7 +1,3 @@
-<h1 align="center">
-<img src="https://img.shields.io/badge/Hello%20World!-Welcome%20to%20my%20Github%20profile-brightgreen?style=for-the-badge&logo=github" alt="Hello World! Welcome to my Github profile">
-</h1
-
 
 <div align='center'>
 <h1>Hello World! Welcome to my Github profile ✨ </h1>
@@ -20,9 +16,11 @@
 
   <div align='center'>
   <h5>Você também pode me encontrar no</h5>
-  <a href="https://www.linkedin.com/in/beatriz-martins-10343713b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/beatriz-martins-10343713b/" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+     <a href="https://www.instagram.com/_beamrt/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
   </div>
 
+<h3>Um pouco sobre mim✨ </h3>
 <section>
    <h6>cursando Desenvolvimento de Software Multiplataforma na Fatec 📘</h6>
    <h6>paixão por front-end 💜</h6>
