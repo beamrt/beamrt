@@ -1,3 +1,8 @@
+<h1 align="center">
+<img src="https://img.shields.io/badge/Hello%20World!-Welcome%20to%20my%20Github%20profile-brightgreen?style=for-the-badge&logo=github" alt="Hello World! Welcome to my Github profile">
+</h1
+
+
 <div align='center'>
 <h1>Hello World! Welcome to my Github profile ✨ </h1>
 <p>Sou iniciante no universo da programação 💜</p>
@@ -14,7 +19,7 @@
   </div>
 
   <div align='center'>
-  <h5 color='purple'>Você também pode me encontrar no</h5>
+  <h5>Você também pode me encontrar no</h5>
   <a href="https://www.linkedin.com/in/beatriz-martins-10343713b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </div>
 
