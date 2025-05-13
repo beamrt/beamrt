@@ -32,4 +32,3 @@
   </ul>
 </nav>
 
-![Snake animation](https://github.com/beamrt/beamrt/blob/output/github-contribution-grid-snake.svg)
