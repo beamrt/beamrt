@@ -1,9 +1,9 @@
 <div align='center'>
 <h1>Hello World! Welcome to my Github profile ✨ </h1>
-<p>Sou iniciante no universo da programação.</p>
+<p>Sou iniciante no universo da programação 💜</p>
 </div>
 
-<h5> Tecnologias e Ferramentas :computer: </h5>
+<h5> :computer: </h5>
 
   <div style="display: inline">
     <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
