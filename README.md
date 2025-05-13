@@ -20,8 +20,6 @@
      <a href="https://www.instagram.com/_beamrt/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
   </div>
 
-  <img src="https://github.com/beamrt/beamrt/blob/output/github-contribution-grid-snake.svg"/>
-
 
 <h3>Um pouco sobre mim✨ </h3>
 <nav>
@@ -33,3 +31,5 @@
    <li>no Github, quero mostrar um pouco da minha tragetória na programação 🚀 </li>
   </ul>
 </nav>
+
+![Snake animation](https://github.com/beamrt/beamrt/blob/output/github-contribution-grid-snake.svg)
