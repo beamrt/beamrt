@@ -20,11 +20,18 @@
      <a href="https://www.instagram.com/_beamrt/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
   </div>
 
+<h3>💻Atualmente focada em</h3>
+<ul>
+  <li>C++</li>
+  <li>Estudo de HTML, CSS e JavaScript</li>
+  <li>Figma</li>
+</ul>
 
-<h3>Um pouco sobre mim✨ </h3>
+
+<h3>Um pouco sobre mim ⭐</h3>
 <nav>
   <ul>
-   <li>cursando Desenvolvimento de Software Multiplataforma na Fatec 📘</li>
+   <li>cursando Desenvolvimento de Software Multiplataforma na Fatec 📚</li>
    <li>paixão por front-end 💜</li>
    <li>pet lover 🐶</li>
    <li>coffe lover ☕</li>
