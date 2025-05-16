@@ -40,7 +40,7 @@
    <li>paixão por front-end 💜</li>
    <li>pet lover 🐶</li>
    <li>coffe lover ☕</li>
-   <li>no Github, quero mostrar um pouco da minha tragetória na programação 🚀 </li>
+   <li>no Github, quero mostrar um pouco da minha trajetória na programação 🚀 </li>
   </ul>
 </nav>
 
