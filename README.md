@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="C:\Users\Bea martins\Downloads\hello_world_github_glitter_slow.gif" />
+  <img src="file:///C:/Users/Bea%20martins/Downloads/hello_world_github_glitter_slow.gif" />
 <h1>Hello World! Welcome to my Github profile ✨ </h1>
 <p>Sou iniciante no universo da programação 💜</p>
 </div>
