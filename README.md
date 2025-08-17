@@ -44,8 +44,8 @@
   </ul>
   
   <ul>
-  <h3>🏆 Competições Acadêmicas</h3>
-      <li> 🏆 Participei do InterFatecs 2025, representando a FATEC Araras na categoria Lógica de Programação. </li>
+  <h3>Competições Acadêmicas 🏆</h3>
+      <li>Participei do InterFatecs 2025, representando a FATEC Araras na categoria Lógica de Programação. </li>
       <li>🥈 2º lugar na classificação por unidade. </li>
 <p>✨ Essa experiência me trouxe aprendizados valiosos sobre trabalho em equipe, pesquisa e dedicação, e é um marco especial na minha trajetória acadêmica.</p>
   </ul>
