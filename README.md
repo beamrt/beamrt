@@ -39,14 +39,10 @@
    <li>cursando Desenvolvimento de Software Multiplataforma na Fatec 📚</li>
    <li>paixão por front-end 💜</li>
    <li>pet lover 🐶</li>
-   <li>no Github, quero mostrar um pouco da minha trajetória na programação 🚀 </li>
-  </ul>
-  
-  <ul>
-<h3>Competições Acadêmicas 🏆</h3>
     <li>Participei do InterFatecs 2025, representando a FATEC Araras na categoria Lógica de Programação. </li>
     <li>2º lugar na classificação por unidade.</li>
     <p>✨ Essa experiência me trouxe aprendizados valiosos sobre trabalho em equipe, pesquisa e dedicação, e é um marco especial na minha trajetória acadêmica.</p>
+    <li>no Github, quero mostrar um pouco da minha trajetória na programação 🚀 </li>
   </ul>
   
 </nav>
