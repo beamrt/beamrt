@@ -28,7 +28,7 @@
 <h3>Atualmente focada em 💻</h3>
 <ul>
   <li>Java</li>
-  <li>HTML, CSS e JavaScript</li>
+  <li>JavaScript</li>
   <li>Figma</li>
 </ul>
 
