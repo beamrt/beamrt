@@ -23,7 +23,7 @@ Desenvolvendo interfaces intuitivas e proporcionando excelentes experiências ao
 
 <p style="margin-top: 15px;">
 
-<a href="https://www.linkedin.com/in/beatriz-martins-10343713b/" target="_blank">
+<a href="https://www.linkedin.com/in/beamrt/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
