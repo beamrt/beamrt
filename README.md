@@ -18,7 +18,7 @@ UI/UX & FrontEnd Developer
 </h3>
 
 <p style="margin-top: 10px; font-weight: 500;">
-Desenvolvendo interfaces intuitivas e proporcionando excelentes experiências ao usuário.
+Desenvolvendo interfaces intuitivas e proporcionando boas experiências ao usuário.
 </p>
 
 <p style="margin-top: 15px;">
