@@ -35,7 +35,9 @@ Desenvolvendo interfaces intuitivas e proporcionando excelentes experiências ao
 
   </tr>
 </table>
-<hr />
+
+---
+
 <div align="center" style="margin-top: 10px;">
   <h3>Technology Stack</h3>
   <img alt="React Native" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -47,25 +49,22 @@ Desenvolvendo interfaces intuitivas e proporcionando excelentes experiências ao
   <img alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-<h3>Atualmente focada em 💻</h3>
-<ul>
-  <li>React</li>
-  <li>Figma</li>
-</ul>
+---
 
-<hr />
+<p align="center">
+<img src="https://github-readme-stats-one-ruddy-016fjexgsf.vercel.app/api/top-langs/?username=beamrt&layout=compact&theme=dark&title_color=9a6b75&text_color=9a6b75&bg_color=0F1214&border_color=7a4f58" height="170em"/>
+</p>
 
-<h3>Um pouco sobre mim ⭐</h3>
-<nav>
-  <ul>
-   <li>cursando Desenvolvimento de Software Multiplataforma na Fatec 📚</li>
-   <li>pet lover 🐶</li>
-    <li>Participei do InterFatecs 2025, representando a FATEC Araras na categoria Lógica de Programação. </li>
-    <li>2º lugar na classificação por unidade.</li>
-    <p>✨ Essa experiência me trouxe aprendizados valiosos sobre trabalho em equipe e dedicação. </p>
-    <li>no Github, quero mostrar um pouco da minha trajetória na programação 🚀 </li>
-  </ul>
-  
-</nav>
+## Conquistas & Educação 
+<div align="center">
+
+| Instituição / Evento | Detalhes |
+| :------------------ | :------ |
+| **InterFatecs 2025** | Representante na categoria *Lógica de Programação* |
+| **Ranking** | **2º Lugar** na classificação da unidade |
+| **FATEC Araras** | Multiplatform Software Development |
+</div>
+
+---
 
 ![snake gif](https://github.com/beamrt/beamrt/blob/output/github-contribution-grid-snake.svg)
